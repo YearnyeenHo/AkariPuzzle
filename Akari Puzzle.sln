@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Akari Puzzle", "Akari Puzzle\Akari Puzzle.vcxproj", "{E9F9EF50-980D-442C-8B4C-A24EA833E661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9F9EF50-980D-442C-8B4C-A24EA833E661}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9F9EF50-980D-442C-8B4C-A24EA833E661}.Debug|Win32.Build.0 = Debug|Win32
+		{E9F9EF50-980D-442C-8B4C-A24EA833E661}.Release|Win32.ActiveCfg = Release|Win32
+		{E9F9EF50-980D-442C-8B4C-A24EA833E661}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
